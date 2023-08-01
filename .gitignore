@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 .idea/
 __pycache__/
 Gesture_volume _control/__pycache__/
+# =======
+# __pycache__/
+# .ipynb_checkpoints/
+# .vscode/
+# >>>>>>> 6293f866a25182c3f13b3bf7ebc93ae81a856201
